@@ -1,0 +1,34 @@
+
+.header{
+    height: 300px;
+    /* background-image: url(/styles/001-stone-circle-jpeg-768x350.jpg); */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 200px;
+    background-image: url(/styles/001-stone-circle-jpeg-768x350.jpg );
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px blueviolet;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.incident{
+    border: 2px solid purple;
+    /* display: block; */
+
+}
+
+li{
+    display: inline;
+}
